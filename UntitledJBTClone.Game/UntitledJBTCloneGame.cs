@@ -1,6 +1,7 @@
 ﻿using osu.Framework.Allocation;
 using osu.Framework.Graphics;
 using osu.Framework.Screens;
+using UntitledJBTClone.Game.Screens;
 
 namespace UntitledJBTClone.Game
 {
@@ -20,7 +21,7 @@ namespace UntitledJBTClone.Game
         {
             base.LoadComplete();
 
-            screenStack.Push(new MainScreen());
+            screenStack.Push(new TitleScreen());
         }
     }
 }
