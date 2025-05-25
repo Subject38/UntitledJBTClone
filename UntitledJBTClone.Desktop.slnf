@@ -1,0 +1,11 @@
+﻿{
+  "solution": {
+    "path": "UntitledJBTClone.sln",
+    "projects": [
+      "UntitledJBTClone.Desktop\\UntitledJBTClone.Desktop.csproj",
+      "UntitledJBTClone.Game\\UntitledJBTClone.Game.csproj",
+      "UntitledJBTClone.Game.Tests\\UntitledJBTClone.Game.Tests.csproj",
+      "UntitledJBTClone.Resources\\UntitledJBTClone.Resources.csproj"
+    ]
+  }
+}
