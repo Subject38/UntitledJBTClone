@@ -8,3 +8,5 @@ x64/
 
 # iOS MSBuild SDK Resolver backup files
 UntitledJBTClone.iOS/UntitledJBTClone.iOS.csproj.SdkResolver.*.proj.Backup.tmp
+songs/
+claude/
